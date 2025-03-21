@@ -1,0 +1,19 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 15/03/2025
+Var
+// Seção de Declarações das variáveis 
+
+Inicio
+   escreval (" Boa noite turma")
+   // Seção de Comandos, procedimento, funções, operadores, etc...
+   escreval("soma dos tres numeros 5+10+5")
+   escreval("a soma de tres numeros é", 5+10+5)
+   
+   escreval("quanto é 2+2?")
+   escreva("2+2 é",2+2)
+
+Fimalgoritmo
